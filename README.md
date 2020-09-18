@@ -1,3 +1,3 @@
 # Submission kelas web dasar DIC0DING membuat website resep makanan sederhana
 
-**-> [Lihat Contoh.](https://laravel.com/docs/routing)**
+**-> [Lihat Contoh.](https://rendiputra.github.io/dicoding_web_dasar_submission/)**
